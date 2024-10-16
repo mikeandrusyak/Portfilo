@@ -1,0 +1,5 @@
+*.pdf
+.venv
+*.txt
+Python-Grundlagen/.DS_Store
+.DS_Store
