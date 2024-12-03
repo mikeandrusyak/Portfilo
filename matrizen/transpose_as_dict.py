@@ -12,7 +12,3 @@ def transpose_as_dict(matrix):
         return transpose(matrix)
     
 matrix = [[1, 0, 3], [0, 2, 4]]
-
-print(transpose_as_dict(matrix))
-print(transpose_as_dict(flatten(matrix)))
-print(transpose_as_dict(as_dict(matrix)))
